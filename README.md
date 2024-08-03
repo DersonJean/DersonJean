@@ -1,10 +1,10 @@
-## Hello my name is Derson Jean
+## 👋 Hello, my name is Derson Jean.
 
 🇭🇹 Originally from Haiti.
 
-🎓 Driven by a deep interest in technology, I am pursuing a degree in Computer Science at the Federal University of Fronteira Sul (UFFS) to explore the expansive fields of programming, algorithms, and information systems.
+💻 Driven by a deep interest in technology, I am pursuing a degree in Computer Science at the Federal University of Fronteira Sul (UFFS) to explore the expansive fields of programming, algorithms, and information systems.
 
-🚀 I am dedicated to continuously improving my skills in programming languages such as HTML, CSS, Python, and C, while keeping up with the latest trends and advancements in the tech industry.
+🎓 I am dedicated to continuously improving my skills in programming languages such as HTML, CSS, Python, and C, while keeping up with the latest trends and advancements in the tech industry.
 
 🌟 My goal is to create innovative solutions and contribute to projects that have a positive impact on the community.
 
