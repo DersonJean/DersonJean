@@ -8,8 +8,9 @@
 
 🌟 My goal is to create innovative solutions and contribute to projects that have a positive impact on the community.
 
+
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derson-jean-a88883313/)
-[![GMAIL](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+<a href = "mailto:derson.jean@estudante.uffs.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derson.jean/)
 
 ![DERSON's GitHub stats](https://github-readme-stats.vercel.app/api?username=DersonJean&show_icons=true&theme=dark)
