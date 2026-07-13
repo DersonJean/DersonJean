@@ -13,9 +13,9 @@
 <a href = "mailto:derson.jean@estudante.uffs.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derson.jean/)
 
-![DERSON's GitHub stats](https://github-readme-stats.vercel.app/api?username=derbensonjean&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=derbensonjean&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derbensonjean&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=derbensonjean&layout=compact&theme=github_dark)
 ## Tecnologies that I use
 
 <div style="display: inline-block">
